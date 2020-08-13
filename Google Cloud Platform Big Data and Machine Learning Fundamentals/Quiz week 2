@@ -4,3 +4,6 @@
 2.Cloud SQL and Cloud Dataproc offer familiar tools (MySQL and Hadoop/Pig/Hive/Spark). What is the value-add provided by Google Cloud Platform?
 = fully managed versions of the software offer no-ops
   running it on google infrastructure offers reliability and cost savings
+
+3.If you have an image classification task for identifying whether a car is present in a photo or not, which solution should you try first?
+= Try the google cloud vision API first
