@@ -1,0 +1,6 @@
+1.Relational databases are a good choice when you need ?
+= Transactional updates on relatively small datasets
+
+2.Cloud SQL and Cloud Dataproc offer familiar tools (MySQL and Hadoop/Pig/Hive/Spark). What is the value-add provided by Google Cloud Platform?
+= fully managed versions of the software offer no-ops
+  running it on google infrastructure offers reliability and cost savings
